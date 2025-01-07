@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	vNVZqAZkOG_q1DMusYxmd._nKaeP4ShuGsMX0LmZsi0-1736238684-1.0.1.1-fhoMwsVl34Wcc6Ps_Pi03Me5FCTmwG1bdKi7h8cqFBozKvx7ywLPrlIcPxnC5QJf
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	wJht8Fuh1KpypgfG7AviLxQS9aNqw0Iyze0XNUxKe8U-1736238684617-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+sonmatclean.com	TRUE	/	FALSE	1999999999	al	KR
+sonmatclean.com	TRUE	/	FALSE	1999999999	ial	deleted
+sonmatclean.com	TRUE	/	FALSE	1999999999	ilc_io	deleted
+www.sonmatclean.com	TRUE	/	FALSE	1999999999	IMWEBVSSID	igd4i1gdg8bq7kqct5h7r76klf18nkcnk1kdqj4ogtgv3viq9om81ple763ao2pubm4o3jm8jhshat905q5magtb65qf4q95on263a2
+sonmatclean.com	TRUE	/	FALSE	1999999999	SameSite	None
+sonmatclean.com	TRUE	/	FALSE	1999999999	ISDID	deleted
+sonmatclean.com	TRUE	/	FALSE	1999999999	ilc	deleted
+
